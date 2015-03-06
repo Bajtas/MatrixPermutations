@@ -15,9 +15,9 @@ Jeżeli użytkownik naciśnie 'kontynuuj' po wyświetleniu monitu o błędnych (
 
 Uwaga, ze względu na szybko rosnącą ilość permutacji(n!), potrzeba około 4 GB miejsca na dysku aby wygenerować permutacje dla macierzy 10x10, a następnie zapisać plik na dysku twardym.
 
-## Lista zmian:
-1.0 - Ostatnie poprawki dotyczące algorytmu permutacji oraz systemu rezerwujacego pamięć.
-0.98 - Dopisanie informacji o autorze.
+*Lista zmian:*
+* 1.0 - Ostatnie poprawki dotyczące algorytmu permutacji oraz systemu rezerwujacego pamięć.
+* 0.98 - Dopisanie informacji o autorze.
 0.95 - Drobne poprawki algorytmu wczytującego dane.
 0.92 - Poprawki związane z rezerwacją pamięci.
 0.90 - Drobne poprawki.

@@ -5,7 +5,23 @@ Data wydania stabilnej wersji: 02-02-2014
 (C) Copyright 2013 Bartłomiej Żuber <bajtas@gmail.com>
 
 Program, którego dokumentację w tej chwili czytasz, służy do generowania specjalnych permutacji macierzy kwadratowych. 
-Pisząc specjalne mam na myśli permutacje w których żadna z wybranych cyfr nie ma drugiej takiej samej w danym wierszu lub komórce. Po wygenerowaniu danych permutacji, program pozwala na wykonanie prostych obliczeń arytmetycznych na wybranych liczbach.
+Pisząc specjalne mam na myśli permutacje, w której jest jedynie jedna wybrana liczba w danym wierszu i kolumnie. Tak, wiem, dość zawiłe sformułowanie ;)
+Obrazowo będzie to wyglądać w ten sposób:
+Macierz wejściowa:
+[ 5 3 4 ]
+[ 1 2 3 ]
+[ 4 2 1 ]
+
+Przykładowe permutacje:
+I. 
+	[ 5 0 0 ]			[ 0 3 0 ]		[ 0 0 4 ]
+	[ 0 2 0 ]			[ 1 0 0 ]		[ 1 0 0 ]
+	[ 0 0 1 ]			[ 0 0 1 ]		[ 0 2 0 ]
+	
+	itd..
+	
+	Permutacji dla macierzy NxN(kwadratowej) jest oczywiście N!, program wygeneruje takie macierze dla maksymalnego rozmiaru macierzy tj. 10x10.
+Po wygenerowaniu danych permutacji, program pozwala na wykonanie prostych obliczeń arytmetycznych na wybranych liczbach.
 
 # Manual:
 Po kliknięciu przycisku "losuj" zostanie wylosowana dowolna macierz kwadratowa z dowolnymi wartościami.

@@ -20,7 +20,7 @@ Obrazowo będzie to wyglądać w ten sposób:
 	
 itd..<br>
 	
-	<b>Permutacji dla macierzy NxN(kwadratowej) jest N!</b> 
+	Permutacji dla macierzy NxN(kwadratowej) jest N!
 
 Z powodu szybko rosnącej złożoności  program generuje macierze dla maksymalnego rozmiaru macierzy wejściowej tj. 10x10.
 

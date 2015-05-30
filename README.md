@@ -7,11 +7,11 @@ Data wydania stabilnej wersji: 02-02-2014
 Program, którego dokumentację w tej chwili czytasz, służy do generowania specjalnych permutacji macierzy kwadratowych. 
 Pisząc specjalne mam na myśli permutacje, w której jest jedynie jedna wybrana liczba w danym wierszu i kolumnie. Tak, wiem, dość zawiłe sformułowanie ;)
 Obrazowo będzie to wyglądać w ten sposób:
-Macierz wejściowa:
+Macierz wejściowa:<br>
 
-[ 5 3 4 ]
-[ 1 2 3 ]
-[ 4 2 1 ]
+[ 5 3 4 ]<br>
+[ 1 2 3 ]<br>
+[ 4 2 1 ]<br>
 
 Przykładowe permutacje:
 I. 

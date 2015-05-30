@@ -13,14 +13,14 @@ Obrazowo będzie to wyglądać w ten sposób:
 [ 1 2 3 ]<br>
 [ 4 2 1 ]<br>
 
-<b>Przykładowe permutacje:</b>
+<b>Przykładowe permutacje:</b><br>
 	[ 5 0 0 ]			[ 0 3 0 ]		[ 0 0 4 ]<br>
 	[ 0 2 0 ]			[ 1 0 0 ]		[ 1 0 0 ]<br>
 	[ 0 0 1 ]			[ 0 0 1 ]		[ 0 2 0 ]<br>
 	
 itd..<br>
 	
-	Permutacji dla macierzy NxN(kwadratowej) jest N! 
+	<b>Permutacji dla macierzy NxN(kwadratowej) jest N!</b> 
 
 Z powodu szybko rosnącej złożoności  program generuje macierze dla maksymalnego rozmiaru macierzy wejściowej tj. 10x10.
 

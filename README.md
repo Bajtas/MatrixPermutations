@@ -2,7 +2,7 @@ PermutacjeMacierzy 1.0a
 ==================
 Stable version released on: 02-02-2014
 
-->![Alt text](/docs/gui.jpg?raw=true "How GUI looks")<-
+![Alt text](/docs/gui.jpg?raw=true "How GUI looks")
 
 (C) Copyright 2016 Bartłomiej Żuber <bajtas@gmail.com>
 

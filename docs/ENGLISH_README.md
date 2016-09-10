@@ -1,4 +1,4 @@
-PermutacjeMacierzy 1.0
+MatrixPermutations 1.0
 ==================
 Stable version released on: 02-02-2014
 

@@ -8,7 +8,7 @@ Apllication, which documentation you are reading right now, has been designed to
 Special permutations, means that this permutations have only one higher than 0 number in row and column. 
 <br>I'am aware that this nothing has said to you. ;)<br>
 Here is better expample:
-<b>Input matrix:</b><br>
+<br><b>Input matrix:</b><br>
 
 [ 5 3 4 ]<br>
 [ 1 2 3 ]<br>
